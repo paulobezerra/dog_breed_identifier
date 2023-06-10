@@ -2,3 +2,4 @@
 *images/**
 *.h5
 rotulos_config.json
+.vscode/settings.json
